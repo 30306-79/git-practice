@@ -1,1 +1,3 @@
-"Corrected typo in hello.txt" 
+"Corrected typo in hello.txt"
+
+新しい機能追加します。いいね？
