@@ -1,7 +1,1 @@
-"Hello, Git!" 
-
-変更を追加しましたぜ
-
-さらに変更を追加しましたぜ2
-
-ログイン機能hを追加
+"Corrected typo in hello.txt" 
